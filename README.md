@@ -168,6 +168,19 @@ The blockchain integration and backend development will be added later.
 - You can add more than one card and you can make any purchase you want with these cards.
 - You can shop in the same way by clicking the qr scan icon in the upper right corner of the screen.
 
+## You can test the application:
+
+You can test the application after downloading the "Expo Go" application from the Play Store or App Store and scanning the QR.
+
+  <img src="https://user-images.githubusercontent.com/45069041/229441679-a7583157-1794-4b6b-9d35-89d0d4936142.PNG" alt="Wallet Screen"   width="250">
+
+<br/>
+
+You can test the application: [Star Coffee](https://expo.dev/@hasangonen91/star-coffee?serviceType=classic&distribution=expo-go)
+
+**Or, open this link on your device:** exp://exp.host/@hasangonen91/star-coffee?release-channel=default
+<br/>
+
 
 ## Features
 
